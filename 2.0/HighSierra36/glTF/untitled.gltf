@@ -1,0 +1,31 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.7.33",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "name" : "High Sierra 36 Template",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                -0.7071068286895752
+            ],
+            "scale" : [
+                0.30480000376701355,
+                0.30480000376701355,
+                0.30480000376701355
+            ]
+        }
+    ]
+}
